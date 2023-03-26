@@ -54,10 +54,10 @@
 }
 .navbar{
     position: absolute;
-    height: 4.57vw;
+    height: 6vw;
     width: 90%;
     background-color: var(--color1);
-    top: 4vw;
+    top: 2.5vw;
     display: flex;
     align-items: center;
     z-index: 100;
@@ -67,7 +67,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2.143vw;
+    font-size: 3vw;
     font-weight: bolder;
 }
 .menus{
@@ -91,7 +91,7 @@
     text-decoration: none;
     color: black;
     font-weight: bold;
-    font-size: 1vw;
+    font-size: 2vw;
     text-transform: uppercase;
 }
 .header-content{
@@ -135,7 +135,7 @@
     color: white;
 }
 .mid-content .heading{
-    font-size: 1.79vw;
+    font-size: 2vw;
     font-weight: bolder;
 }
 .mid-content .heading span{
@@ -152,7 +152,7 @@
 .btn{
     padding: 5px 10px;
     border: none;
-    font-size: 1.43vw;
+    font-size: 1.5vw;
     text-transform: uppercase;
     font-weight: bold;
     border-radius: 2px;
@@ -168,7 +168,7 @@
 /* ======================================================= */
 .time1{
     position: relative;
-    height: 18.93vw;
+    height: 20vw;
     width: 100%;
 }
 .game-time{
@@ -186,10 +186,10 @@
     text-align: center;
 }
 .time-text h1{
-    font-size: 3vw;
+    font-size: 3.5vw;
 }
 .time-text span{
-    font-size: 4vw;
+    font-size: 4.5vw;
     padding: 10px;
 }
 .left-bars{
@@ -214,7 +214,7 @@
 
 .hand-ball-img-sec{
     position: relative;
-    height: 67.12vw;
+    height: 68vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -254,14 +254,14 @@
     flex-direction: column;
 }
 .hand-ball-img-sec .text h1{
-    font-size: 3vw;
+    font-size: 4vw;
     letter-spacing: 10px;
     color: var(--color1);
 }
 .hand-ball-img-sec .text p{
     margin: 2vw 0;
-    width: 40vw;
-    font-size: 2vw;
+    width: 45vw;
+    font-size: 2.5vw;
     text-align: justify;
 }
 .hand-ball-img-sec .text .btn{
@@ -286,7 +286,7 @@
 
 .fight-sec{
     position: relative;
-    height: 62.85vw;
+    height: 64vw;
     width: 100%;
     margin: 5vw 0;
 }
@@ -306,13 +306,13 @@
     color: var(--color1);
 }
 .inner-fight-sec .text h1{
-    font-size: 3vw;
+    font-size: 4vw;
     letter-spacing: 10px;
 }
 .inner-fight-sec .text p{
     color: white;
     width: 40vw;
-    font-size: 2vw;
+    font-size: 2.5vw;
     text-align: justify;
     margin: 2vw 0;
 }
@@ -357,7 +357,7 @@
 
 .participent{
     position: relative;
-    height: 64.30vw;
+    height: 65vw;
     width: 100%;
     margin: 5vw 0;
 }
@@ -391,14 +391,13 @@
     justify-content: space-around;
 }
 .inner-participent .content h1{
-    font-size: 3vw;
+    font-size: 4vw;
     letter-spacing: 10px;
     color: var(--color1);
-    font-size: 3vw;
 }
 .inner-participent .content p{
     text-align: center;
-    font-size: 2vw;
+    font-size: 2.5vw;
 }
 .inner-participent .images{
     width: 100%;
@@ -444,7 +443,7 @@
 
 .fight2{
     position: relative;
-    height: 60vw;
+    height: 63vw;
     width: 100%;
     margin: 5vw 0;
 }
@@ -460,7 +459,7 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    height: 35.71vw;
+    height: 37vw;
     width: 100%;
     background-color: var(--color1);
     z-index: 10;
@@ -494,10 +493,9 @@
 }
 .front .content h1{
     margin-top: 15vw;
-    font-size: 3vw;
+    font-size: 4vw;
     letter-spacing: 10px;
     color: var(--color1);
-    font-size: 3vw;
 }
 .front .content .text{
     height: 35vw;
@@ -508,7 +506,7 @@
 }
 .front .content .text p{
     text-align: justify;
-    font-size: 2vw;
+    font-size: 2.5vw;
     padding: 2vw;
 }
 
@@ -545,9 +543,8 @@
     left: 10vw;
     margin-top: 15vw;
     color: white;
-    font-size: 3vw;
+    font-size: 4vw;
     letter-spacing: 10px;
-    font-size: 3vw;
 }
 .inner-live h1 span{
     background-color: red;
@@ -587,7 +584,7 @@
 }
 .cards .card{
     width: 30%;
-    height: 38.57vw;
+    height: 39vw;
     background-color: white;
 }
 .inner-recent-post .card .img{
@@ -617,7 +614,7 @@
 }
 .inner-recent-post .card .body p{
     text-align: justify;
-    font-size: 1.5vw;
+    font-size: 1.7vw;
 }
 .card .btn{
     background-color: var(--color1);
@@ -644,7 +641,7 @@
 .inner-contact input, textarea{
     padding: 1vw;
     width: 50vw;
-    font-size: 1.5vw;
+    font-size: 2vw;
 }
 textarea{
     height: 12vw;
@@ -653,7 +650,7 @@ textarea{
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 5px;
-    font-size: 3vw;
+    font-size: 4vw;
     color: white;
 }
 .inner-contact h1 span{
@@ -669,7 +666,7 @@ textarea{
 
 .footer{
     position: relative;
-    height: 40vw;
+    height: 50vw;
     width: 100%;
     margin-top: 5vw;
 }
@@ -692,13 +689,13 @@ textarea{
 .top-footer ul li{
     list-style: none;
     padding: 1vw;
-    font-size: 1.5vw;
+    font-size: 2.5vw;
 }
 .top-footer h1{
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 5px;
-    font-size: 3vw;
+    font-size: 4vw;
     background-color: white;
     padding: 1vw;
 }
@@ -741,7 +738,7 @@ textarea{
         margin: 2vw 0;
     }
     .footer{
-        height: 100vw;
+        height: 120vw;
     }
     .top-footer{
         flex-direction: column;
@@ -749,6 +746,15 @@ textarea{
     }
     .top-footer div{
         margin: 1vw 0;
+    }
+    .about ,.service ,.address{
+        width: 35%;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-direction: column;
+    }.footer-icon{
+        width: 50%;
     }
     
 }
